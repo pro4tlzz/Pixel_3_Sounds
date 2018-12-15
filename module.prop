@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=p3_S
+name=Pixel 3 Sounds
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-minMagisk=17000
+author=Pro4TLZZ
+description=Add Pixel 3 sounds
+minMagisk=1800
